@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "296b9c5f9cc24f76ccaae3e2",
+  "owner": "fqxpvfyvc",
+  "repo": "page-4331dae84754c0210a4fea5f",
+  "title": "MonoCloud",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "4331dae84754c0210a4fea5f",
+      "a": "MonoCloud",
+      "b": "2027官方最新地址导航",
+      "entity": "MonoCloud",
+      "brand": "MonoCloud",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "644e375c6a0d215e7a7077de7c3a9af5c66ef0083145d7ba20ab07778479bb86",
+      "content": {
+        "primary_entity": "MonoCloud",
+        "keyword1": "MonoCloud",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_HERO_SUBTITLE": "三档套餐按需选择",
+          "AI_HERO_INTRO": "MonoCloud 提供基础版、旗舰版与团队版三档订阅，覆盖个人到团队不同规模的使用需求。流量与设备数以套餐为准，可按月或按年付费。",
+          "AI_VISUAL_TITLE": "MonoCloud 三档订阅",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备",
+          "AI_DESCRIPTION": "，主打多档订阅与设备适配，套餐按流量、在线设备数量和线路类型区分。基础版适合单人轻量使用，旗舰版增加专线与流媒体解锁，团队版面向多设备协作场景，年付方案通常比月付更划算。",
+          "AI_FEATURES_TITLE": "订阅与设备要点",
+          "AI_FEATURES_INTRO": "从套餐流量、设备上限和付费周期三个方面选择适合自己的方案。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按每月用量选择，避免浪费。",
+          "AI_FEATURE_TITLE_2": "按设备数匹配",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台同时在线，覆盖手机、电脑与平板。",
+          "AI_FEATURE_TITLE_3": "按周期规划",
+          "AI_FEATURE_TEXT_3": "月付灵活试用，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，适合长期使用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同系统对应不同客户端，建议根据设备类型选择并参照配置文档导入订阅。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月、旗舰版 ¥35/月、团队版 ¥85/月，年付分别约 ¥150、¥350、¥850。",
+          "AI_GUIDE_TITLE": "配置流程",
+          "AI_GUIDE_INTRO": "先确定套餐与设备数量，再查看适配要求，最后按客户端文档完成订阅配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据每月流量和同时在线设备数量，在基础版、旗舰版和团队版中选定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端类型，核对套餐支持的在线设备数量，并与实际使用设备数匹配。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅信息，完成节点选择与连接测试，确保设备正常使用。",
+          "AI_CLOSING_TITLE": "按需求订阅",
+          "AI_CLOSING_TEXT": "根据流量与设备数量选定套餐，按客户端文档完成订阅配置即可开始使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_ANSWER_1": "基础版适合 1 至 3 台设备的轻度使用者，每月 100GB 流量可满足网页浏览和基础流媒体需求。如果同时使用多台设备或经常观看高清视频，可以考虑升级到旗舰版的 300GB。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备在线，旗舰版为 5 台，团队版可支持 20 台。设备数量指同一时间在线的终端数，路由器代理方式下所有连接该路由器的设备会共享额度。",
+          "AI_FAQ_ANSWER_3": "旗舰版采用 IPLC 专线并对游戏加速做优化，适合需要稳定低延迟连接的用户。团队版则提供 VIP 专属高带宽节点，更适合多人协作或高并发场景使用。",
+          "AI_FAQ_ANSWER_4": "MonoCloud 支持主流桌面和移动客户端，路由器端也可通过配置文件接入。具体可查看各客户端的订阅导入说明，按设备类型选择对应配置方式。",
+          "AI_FAQ_ANSWER_5": "年付方案比月付更优惠，基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850。长期使用建议直接选择年付，可减少续费操作并节省支出。",
+          "AI_FAQ_QUESTION_1": "哪档套餐适合日常使用？",
+          "AI_FAQ_QUESTION_2": "同时可以几台设备在线？",
+          "AI_FAQ_QUESTION_3": "游戏加速选哪个版本？",
+          "AI_FAQ_QUESTION_4": "怎么在设备上导入订阅？",
+          "AI_FAQ_QUESTION_5": "月付和年付有什么区别？",
+          "AI_FAQ_TITLE": "常见疑问"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "agnzoqv.cn",
+    "host": "agnzoqv.cn"
+  },
+  "file_hashes": {
+    "index.html": "ce44e3b779d289e3c479c04918734a70515bc94441ab51b6a1922a9338fb3b1f",
+    "sitemap.xml": "61f52f0348077001e9b96f5b86a0670ad5f1ebd036f598c860f320267b09f40c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "476f3e3506a9efb13f156a44727dc4f19a6bfb3a31f2812c723211683ef9eec6",
+    "robots.txt": "a36134205334ebdb00de1ce2176e7a802f8fb4166766709fca8f4b7decd69eff",
+    "e370e65742eecb71bab6fb6d156a2be9.txt": "6b12702c606311fe570f1e99b05fb694e28ea69ea8eabcf463bb342fd34f7984"
+  },
+  "revision": "c7c1291933e34535b98779f39ac7ecea4320a0f5a634435d93e17b76970eb776"
+}
